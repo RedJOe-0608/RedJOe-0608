@@ -8,15 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redjoe-0608" alt="redjoe-0608" /></a> </p>
 
-- 🌱 I’m currently learning **AI&ML and DevOps**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 💬 Ask me about **The MERN Stack**
+- SDE-1 Frontend
+- I build cool things on the side :)
 
 - 📫 How to reach me **joeswaroopmakena@gmail.com**
-
-- ⚡ Fun fact **My expertise may be in Front-End Development, but I am not a loner because I now know how to join tables :)**
 
 
 <h3 align="left">Connect with me:</h3>
